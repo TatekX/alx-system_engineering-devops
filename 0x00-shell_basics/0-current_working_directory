@@ -1,2 +1,6 @@
 #!/bin/bash
+#Author: Tatek
+#Description: print the current woring directory
+#date : may 25,2022
+#last modified: may 25,2022
 pwd
