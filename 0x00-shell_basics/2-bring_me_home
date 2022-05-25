@@ -1,3 +1,5 @@
 #!/bin/bash
-ls
+pwd
+echo $HOME
+2bring_me_home
 pwd
