@@ -1,5 +1,4 @@
 #!/bin/bash
-pwd
 echo $HOME
 2bring_me_home
 pwd
