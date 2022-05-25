@@ -1,4 +1,4 @@
 #!/bin/bash
 echo $HOME
-2bring_me_home
+2-bring_me_home
 pwd
