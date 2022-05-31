@@ -1,1 +1,3 @@
+#!/bin/bas
 
+find . -empty | rev | cut -d '/' -f 1 | rev
